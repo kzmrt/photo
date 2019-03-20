@@ -100,7 +100,7 @@ class DetailView(generic.DetailView):
 
 class BasicPdf(generic.View):
     filename = 'photo_work.pdf'  # 出力ファイル名
-    title = 'title: Art Works'
+    title = 'title: Photo Works'
     font_name = 'HeiseiKakuGo-W5'  # フォント
     is_bottomup = True
 
