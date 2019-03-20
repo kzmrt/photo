@@ -15,6 +15,7 @@ Requirement
 :django-superform: 0.3.1
 :Pillow: 5.4.1
 :pytz: 2018.9
+:reportlab: 3.5.13
 
 Quick start
 ===========

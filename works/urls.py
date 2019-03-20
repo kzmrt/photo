@@ -12,4 +12,7 @@ urlpatterns = [
 
     # 登録画面
     path('create/', views.CreateView.as_view(), name='create'),
+
+    # PDF出力
+    path('pdf/', views.BasicPdf.as_view(), name='pdf'),
 ]
