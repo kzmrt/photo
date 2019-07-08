@@ -10,12 +10,12 @@ Requirement
 ===========
 
 :Python: 3.7.0
-:Django: 2.2.2
+:Django: 2.2.3
 :django-bootstrap4: 0.0.8
 :django-superform: 0.3.1
-:Pillow: 5.4.1
-:pytz: 2018.9
-:reportlab: 3.5.13
+:Pillow: 6.1.0
+:pytz: 2019.1
+:reportlab: 3.5.23
 
 Quick start
 ===========
